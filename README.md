@@ -14,7 +14,7 @@ The project, Event_Time is a self-service ticketing platform that allows anyone 
 
 ## Installation
 
-To use this application, you need to install the following modules: mysql2 to connect to a mySQL database, express, Sequelize, dotenv, bcrypt, connect-session-sequelize, express-handlebars, express-session, uuid. Using the schema in the db folder, create a database in mySQL. Run the command 'node server.js' in the terminal to create the table structures and then the command 'node seeds/seed' to seed the tables with data.
+To use this application, you need to install the following modules: mysql2 to connect to a mySQL database, express, Sequelize, dotenv, bcrypt, connect-session-sequelize, express-handlebars, express-session, uuid. Using the schema in the db folder, create a database in mySQL. Run the command 'node server.js' in the terminal to create the table structures and then the command 'npm run seed' to seed the tables with data.
 
 ## Usage
 
@@ -29,9 +29,7 @@ Contributions on Stackoverflow https://stackoverflow.com/questions/
 
 ## URLs
 
-The URL of the deployed application is: 
-
-The URL of the GitHub repository containing the code is:
+The URL of the deployed application is: Live [link](https://desolate-basin-87130.herokuapp.com/)
 
 ## License
 
@@ -42,5 +40,7 @@ MIT License
 * Yel Zaw Aung
 * Zaira Barry
 * Olubukola Abiona
+
+
 
 
