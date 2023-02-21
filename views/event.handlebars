@@ -1,0 +1,28 @@
+<section class="event-style">
+  <img src="/images/{{event.filename}}" alt="{{event.description}}">
+  <div class="painting-details">
+    <h3>{{event.title}}</h3>
+    <p>By: {{event.present_by}}</p>
+    <p>Date and Time: {{ event.dateandtime}}</p>
+    <br>
+    <h5>Ticket Price: {{event.price}}$</h5>
+    <br>
+    <p style="font-weight: 500;">{{event.description}}</p>
+    <br>
+    <div >
+      <div >
+        <p class="btn-group event-btn" >
+        <button class="btn btn-primary save_event event-list" data-id="{{event.id}}" data-title="{{event.title}}" aria-label="save event" >Save Event</button>
+        {{!-- </p>
+        <p > --}}
+        <button class="btn btn-primary get_ticket event-list" data-id="{{event.id}}" aria-label="get your ticket">Get your ticket</button>
+        </p>
+      </div>
+  </div>
+  <br>
+  <p>Location: {{event.location}}</p>
+    <br>
+    <iframe src="{{event.map}}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</section>
+<script src="../js/event.js"></script>

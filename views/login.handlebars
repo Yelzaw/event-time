@@ -1,0 +1,36 @@
+
+	<div class="container-fluid bg-image p-5 text-center shadow-1-strong rounded mb-5 text-white">
+		<div class="row main-content bg-success text-center">
+			<div class="col-md-4 text-center company__info">
+				<span class="company__logo"><h2><image src="./images/logo.png"></h2></span>
+			</div>
+			<div class="col-md-8 col-xs-12 col-sm-12 login_form ">
+				<div class="container-fluid">
+					<div class="row">
+						<h2>Log In</h2>
+					</div>
+					<div class="row">
+						<form control="" class="form-group" id="login-form">
+							<div class="row">
+								<input type="text" name="email" id="email-login" class="form__input" placeholder="Email">
+							</div>
+							<div class="row">
+								<!-- <span class="fa fa-lock"></span> -->
+								<input type="password" name="password" id="password-login" class="form__input" placeholder="Password">
+							</div>
+							
+							<div class="row">
+                <button id="btn" class="btn" type="submit">Login</button>
+								{{!-- <input type="submit" value="Submit" class="btn"> --}}
+							</div>
+						</form>
+					</div>
+					<div class="row">
+						<p>Don't have an account? <a href="/signup">Sign Up Here</a></p>
+					</div>
+				</div>
+			</div>
+		</div>		
+	</div>
+  
+	<script src="./js/login.js"></script>

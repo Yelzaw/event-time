@@ -1,0 +1,123 @@
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/jass.css" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <title>Event Time</title>
+    {{! <link rel="stylesheet" type="text/css" href="/css/login.css"> }}
+  </head>
+
+  <body>
+    <header>
+      <!-- Conditionally render different images based on the image urls-->
+      {{#if logged_in}}
+      {{>subheader1}}
+      {{else}}
+      {{>subheader2}}
+      {{/if}}
+      <nav>   
+          <ul class="main-nav">
+            <li>
+              <a href="/">Home</a>
+            </li>              
+            {{!-- when user login, change nav items --}}
+              {{#if logged_in}}
+                {{!-- <li><a href="/newevent">Create Event</a></li> --}}
+
+                <li><a href="/profile">Profile</a></li>
+
+                <li><button id="logout" class="btn-no-style">Logout</button></li>
+              {{else}}
+                <li><a href="/login">Login</a></li>
+                
+                <li><a href="/signup">Sign up </a></li>
+
+              {{/if}}
+            
+          </ul>
+      </nav>
+          <h1 class="card-text text-center">Event_Time</h1>
+</div>
+</header>
+
+    <main>
+        <!-- Render the sub layout -->
+      {{{body}}}
+    </main>
+    <!-- Render script for logged in users only -->
+    {{#if logged_in}}
+      <script src="/js/logout.js"></script>
+    {{/if}}
+
+     <!-- Footer -->
+<div class="container my-5">
+  <footer
+          class="text-center text-lg-start text-white footer-plate"
+          >
+    <div class="container p-4 pb-0">
+        <div class="row">
+          <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold">
+             EVENT TIME
+            </h6>
+            <p>
+            Welcome to Event Time. Your annual event calendar in New Brunswick.
+            </p>
+          </div>
+       
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
+            <p><i class="fas fa-home mr-3"></i> Fredericton, New Brunswick 10012, Canada</p>
+            <p><i class="fas fa-envelope mr-3"></i> info@gmail.com</p>
+            <p><i class="fas fa-phone mr-3"></i> + 506 111 111 11</p>
+            <p><i class="fas fa-print mr-3"></i> + 506 222 222 22</p>
+          </div>
+      
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold">Follow us</h6>
+
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #dd4b39"
+               href="mailto:yelzawaung@gmail.com"
+               role="button"
+               ><i class="fab fa-google"></i
+              ></a>
+  
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #0082ca"
+               href="https://www.linkedin.com/in/yel-zaw-aung-69a0b975/"
+               role="button"
+               ><i class="fab fa-linkedin-in"></i
+              ></a>
+         
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #333333"
+               href="https://github.com/Yelzaw"
+               role="button"
+               ><i class="fab fa-github"></i
+              ></a>
+          </div>
+ </footer>
+
+ 
+  <script
+      src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.4/index.global.min.js"
+    ></script>
+    
+  </body>
+
+</html>

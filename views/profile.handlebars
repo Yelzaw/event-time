@@ -1,0 +1,53 @@
+<div>
+<div class="row profile_page">
+  <div class="btn-group">
+  {{#each categoryLists as |list|}}
+  <button type="button" class="category_link" ><a href="/category/{{list.id}}">{{list.name}}</a></button>
+  {{/each}}
+  </div>
+  <div> <h2 style="text-align: center">Welcome, {{name}}!</h2> </div>
+    
+</div>
+<div class="category_page">
+  <aside>
+        <header style="font-size: 1.75rem, text-align: center; color: grey; font-weigth: 500;">Plan your event now</header>
+        <div class="calendar-category" id="calendar"></div>
+  </aside>
+  <div class="container">
+    <div class="row gx-5  painting">
+      <div class="col" >
+        {{#if events.length}}
+            
+        <h3 >Your Event Tickets</h3>      
+ <!-- Loop over each object in the events array -->
+            {{#each events as |event|}}
+        <li><a href="/event/{{event.id}}">{{event.title}} </a> <p>Date and Time: <br> {{event.dateandtime}}</p> </li>
+        {{/each}}
+      </div>
+      {{/if}}      
+    
+
+    {{#if saved_events.length}}
+      <div class="col del_event">    
+        <h3>Saved Event</h3>      
+ <!-- Loop over each object in the saved_events array -->
+            {{#each saved_events as |saved_event|}}
+        <div>
+          <li><a href="/event/{{saved_event.event_id}}">{{saved_event.title}}</a></li>
+          <p>Note: {{saved_event.notes}}</p>
+          <form  data-note="{{saved_event.id}}">
+            {{!-- <label for="">Add Note</label> --}}
+            <input type="text" id="note{{saved_event.id}}">
+            <input type="submit" value="Add note">
+          </form>         
+          <button class="btn-secondary btn-sm btn-danger" data-id="{{saved_event.id}}">DELETE</button>
+        </div>
+        {{/each}}
+      </div>
+      {{/if}}        
+    </div>
+  </div>
+</div>
+</div>
+<script src="../js/delevent.js"></script>
+<script src="../js/scriptprofile.js"></script>

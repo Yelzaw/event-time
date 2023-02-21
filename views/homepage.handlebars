@@ -1,0 +1,25 @@
+ 
+
+<section>
+      <p class="introduction">
+        Explore upcoming events in New Brunswick with us. If you’re looking to
+        plan ahead, look no further than New Bruinswick’s year-round annual
+        events calendar <span style="color: #d416b8">Event_Time.</span>
+      </p>
+</section>
+
+<nav id="nav_event"> 
+<ul>
+  <!-- Loop over each object in the categories array -->
+{{#each categories as |category|}}
+{{> category-details}}
+{{/each}}
+
+</ul>
+</nav>
+
+<section>
+      <h3>Plan your event now</h3>
+      <div class="card calendar-main" id="calendar"></div>
+</section>
+<script src="/js/script.js"></script>

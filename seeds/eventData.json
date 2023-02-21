@@ -1,0 +1,276 @@
+
+[
+  {
+    "title": "YQM Country Fest 2023",
+    "present_by": "YQM Country Fest",
+    "dateandtime": "Fri, 25 Aug 2023, 1:00 PM",
+    "date": "2023/08/25",
+    "location": "475 Rue Notre Dame Dieppe, NB E1A 4Y3",
+    "category_id": 1,
+    "filename": "01-yqm-country-fest-2023.png",
+    "price": 300,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.600002057957!2d-64.74522000000002!3d46.098949999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca0bfe4df0a1217%3A0x68f94c032f45a1ea!2s475%20Rue%20Notre%20Dame%2C%20Dieppe%2C%20NB%20E1A%205C2!5e0!3m2!1sen!2sca!4v1676174810423!5m2!1sen!2sca",
+    "description":
+      "KEITH URBAN on Friday and THOMAS RHETT on SATURDAY"
+  },
+  {
+    "title": "Fredericton Craft Beer Festival 2023",
+    "present_by": "Fredericton Craft Beer Festival",
+    "dateandtime": "2023-03-11 21:30:00",
+    "date": "2023/03/11",
+    "location": "670 Queen St Fredericton, NB E3B 1C2",
+    "category_id": 2,
+    "filename": "02-fredericton-craft-beer-festival-2023.png",
+    "price": 100,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773.5419692075106!2d-66.63960868465631!3d45.96043370821531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca418a152a87795%3A0xaef8c59672cd9b56!2s670%20Queen%20St%2C%20Fredericton%2C%20NB%20E3B%201C2!5e0!3m2!1sen!2sca!4v1676175436685!5m2!1sen!2sca",
+    "description":
+        "Join us for the 10th Annual Fredericton Craft Beer Festival on March 11 th, 2023, at the Fredericton Convention Centre. We will be sampling some of the best beers around and are pleased to announce that we will have a great selection of beers/ciders/mead for you to choose from on your sampling journey! We will showcase over 45 breweries, cideries and a meadery. Need a room? The Venue - Located in the heart of a charming and pristine capital city, the Fredericton Convention Centre is New Brunswick's premier meeting destination, offering a warm Maritime experience in a modern, chic building filled with natural light, a stone's throw from the majestic Saint John River."
+  },
+  {
+    "title": "Down East Brew Festival 2023",
+    "present_by": "Fredericton Craft Beer Festival",
+    "dateandtime": "2023-08-05 04:00:00",
+    "date": "2023/08/05",
+    "location": "Outdoors on the Street Rue Carleton Street Fredericton, NB E3B",
+    "category_id": 2,
+    "filename": "03-down-east-brew-festival-2023.png",
+    "price": 100,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773.554138317014!2d-66.64472828465637!3d45.9601906082317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca418a1abaea233%3A0x21367ebedf66e87c!2sRue%20Carleton%20St%2C%20Fredericton%2C%20NB!5e0!3m2!1sen!2sca!4v1676175506133!5m2!1sen!2sca",
+    "description":
+      "Join us outdoors on Carleton Street as we enjoy some great local beer, cider, mead, spirits & wine. On Aug 5th, we will showcase some of the region's best products. This is an outdoor event, a Rain or Shine event!"
+  },
+  {
+    "title": "March Brack Cooking Camp",
+    "present_by": "Sam's Second Spoon",
+    "dateandtime": "2023-03-06 12:00:00",
+    "date": "2023/03/06",
+    "location": "303 Woodlawn Lane New Maryland, NB E3C 1J4",
+    "category_id": 2,
+    "filename": "04-march-brack-cooking-camp.png",
+    "price": 50,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2776.8398355681006!2d-66.6637944846585!3d45.89451631264784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca4215bbf625d63%3A0x6e5a8470990bbcbf!2s303%20Woodlawn%20Ln%2C%20New%20Maryland%2C%20NB%20E3C%201J4!5e0!3m2!1sen!2sca!4v1676175555602!5m2!1sen!2sca",
+    "description":
+      "Sam's Second Spoon is organizing cooking classes for young kids aged 10 to 15 during the March break.These 5 days are designed to show kids that cooking can be fun and a factor in building their personalities.Our main objectives are to teach kids how to communicate, develop their sense of taste, and create their blends. But on top of that, and most importantly, have fun."
+  },
+  {
+    "title": "Stone Soup Society",
+    "present_by": "Greener Village",
+    "dateandtime": "2023-02-27 18:00:00",
+    "date": "2023/02/27",
+    "location": "Fredericton Food Bank 686 Riverside Drive Fredericton, NB E3A 8C2",
+    "category_id": 2,
+    "filename": "05-stone-soup-society.png",
+    "price": 25,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.7880449241607!2d-66.61108408465714!3d45.93553590989003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca421e97647c9b9%3A0x28b4a00462144ebc!2s686%20Riverside%20Dr%2C%20Fredericton%2C%20NB%20E3A%208C2!5e0!3m2!1sen!2sca!4v1676175590110!5m2!1sen!2sca",
+    "description":
+      "In person activity at the Greener Village Learning Kitchen, 686 Riverside Drive Fredericton NB. Seeking individuals to help prepare large batches of soup to be portioned out in our Food Bank and given out Free to our Fredericton Food Bank Clients."
+  },
+  {
+    "title": "The Ultimate Craft Beer Dinner",
+    "present_by": "Delta Hotels by Marriott Fredericton",
+    "dateandtime": "2023-03-10 18:00:00",
+    "date": "2023/03/10",
+    "location": "225 Woodstock Road Fredericton, NB E3B 2H8",
+    "category_id": 2,
+    "filename": "06-the-ultimate-craft-beer-dinner.png",
+    "price": 100,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773.319482454477!2d-66.6651566846562!3d45.964878107916235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca41883c41c9df1%3A0x45305e8e20569415!2s225%20Woodstock%20Rd%2C%20Fredericton%2C%20NB%20E3B%202H8!5e0!3m2!1sen!2sca!4v1676175623997!5m2!1sen!2sca",
+    "description":
+      "Vote on your favorite brewery, and we will present them with a trophy!"
+  },
+  {
+    "title": "Living Roots Music Festival",
+    "present_by": "Living Roots Music Festival",
+    "dateandtime": "2023-06-08 18:00:00",
+    "date": "2023/06/08",
+    "location": "Various locations, Fredericton, NB",
+    "category_id": 1,
+    "filename": "07-rock-fest-19+.png",
+    "price": 0,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88777.16567388903!2d-66.73629153373126!3d45.945559973888734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca4220ba498fb2b%3A0xe7de2f297a415db4!2sFredericton%2C%20NB!5e0!3m2!1sen!2sca!4v1676175685663!5m2!1sen!2sca",
+    "description":
+      "A roots festival taking place in several small venues including living rooms, cafes, restaurants, parks, street corners, or anywhere else. Acts from across the country and beyond; full range or solo, duo and bands, poetry... anything goes."
+  },
+  {
+    "title": "Beer on the Bridge",
+    "present_by": "Beer on the Bridge",
+    "dateandtime": "2023-07-08 14:30:00" ,
+    "date": "2023/07/08",
+    "location": "Bill Thorpe Walking Bridge, Fredericton, NB",
+    "category_id": 2,
+    "filename": "09-beer-on-the-bridge.png",
+    "price": 0,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4037.5827396069794!2d-66.63051504762083!3d45.956762691607125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca418a8fda11f15%3A0xeb27c4be8ac30a48!2sBill%20Thorpe%20Walking%20Bridge%2C%20Fredericton%2C%20NB!5e0!3m2!1sen!2sca!4v1676175720780!5m2!1sen!2sca",
+    "description":
+      "The Rotary Club of Fredericton Sunrise and SNAP! A Burlesque Revue welcome you to join us on the Bill Thorpe Walking Bridge in Fredericton for a festival of the spirits! Give back to your community while you watch the sun go down over the mighty Saint John river. Come support Rotary's community projects while enjoying mead, beer and cider, live music, and food from some of New Brunswick's best! Beer, cider and mead are included, as is a custom sampling glass. Come support Rotary's community projects while enjoying mead, beer and cider, live music, and food from some of New Brunswick's best! Beer, cider and mead are included, as is a custom BotB sampling glass that will be provided to you on entry. Sample one or sample them all, it's up to you. (Please drink responsibly!)."
+  },
+  {
+    "title": "Ballet by the Ocean - Summer Series",
+    "present_by": "Atlantic Ballet Atlantique Canada",
+    "dateandtime": "2023-07-05 14:30:00",
+    "date": "2023/07/05",
+    "location": "Secret Location, Grande-Digue, NB",
+    "category_id": 1,
+    "filename": "10-ballet-by-the-ocean-summer-series.png",
+    "price": 100,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d88170.23076348982!2d-64.63551972066648!3d46.3233465189836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca08d5b345c6c55%3A0x6768644cd9d4ecce!2sGrande-Digue%2C%20NB!5e0!3m2!1sen!2sca!4v1676175760461!5m2!1sen!2sca",
+    "description":
+      "Allow your senses to guide you in this one-of-a-kind exclusive experience. Come immerse yourself in the scenic backdrop of one of New Brunswick's most stunning natural habitats while enjoying the astounding beauty of the award-winning Atlantic Ballet and savouring incredible local food pairings by celebrated New Brunswick chefs."
+  },
+  {
+    "title": "Cultural Expressions Festival",
+    "present_by": "Multicultural Association of Fredericton",
+    "dateandtime": "2023-06-24 14:30:00",
+    "date": "2023/06/24",
+    "location": "Capital Exhibit Centre, 355 Smythe Street, Fredericton, NB",
+    "category_id": 1,
+    "filename": "11-cultural-expressions-festival.png",
+    "price": 0,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773.5369448223587!2d-66.65857158442586!3d45.960534079109955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca4220ba498fb2b%3A0x411ed37c12ceb235!2sFredericton%20Capital%20Exhibit%20Centre!5e0!3m2!1sen!2sca!4v1676175945329!5m2!1sen!2sca",
+    "description":
+      "One exciting day of LIVE entertainment from around the world. Special activities for families; multicultural dance & music, international food, displays & more. Free admission."
+  },
+  {
+    "title": "Songwriter circle",
+    "present_by": "Roots & Soul Music Promotions",
+    "dateandtime": "2023-03-09 20:30:00",
+    "date": "2023/03/09",
+    "location": "Five and Dime, 34 Grannan Street,Saint John,NB,Canada, Saint John, Canada",
+    "category_id": 1,
+    "filename": "12-songwriter-circle.png",
+    "price": 10,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.79074747007!2d-66.06310658467874!3d45.272240554253024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca7b37dbbaaf973%3A0xa1843b7e95dd19b9!2s34%20Grannan%20St%2C%20Saint%20John%2C%20NB%20E2L%200E9!5e0!3m2!1sen!2sca!4v1676175984660!5m2!1sen!2sca",
+    "description":
+      "Roots & Soul annual songwriter circle will make a stop in Saint John. We will have 4 artists on stage together each taking turns telling stories and playing songs. Show starts at 8:30 PM"
+  },
+  {
+    "title": "The Last Waltz New Brunswick",
+    "present_by": "The Last Waltz New Brunswick",
+    "dateandtime": "2023-04-08 21:30:00",
+    "date": "2023/04/08",
+    "location": "Imperial Theatre, 12 King Square South,Saint John,NB,Canada, Saint John, Canada",
+    "category_id": 1,
+    "filename": "13.the-last-waltz-new-brunswick.png",
+    "price": 200,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.7566652398564!2d-66.06003998467871!3d45.27292945420727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca7b37e9d6d5919%3A0x8db11ddbd5e12244!2sImperial%20Theatre!5e0!3m2!1sen!2sca!4v1676175831284!5m2!1sen!2sca",
+    "description":
+      "New Brunswick pays tribute to one of the greatest concerts of all time - April 6/7/8, 2023. The Last Waltz New Brunswick features an all-star cast of NB artists, all backed by the East Coast's most dedicated “The Band” band — King Harvest."
+  },
+  {
+    "title": "2023 New Brunswick Powerlifting Provincial Championships",
+    "present_by": "Fundy Powerlifting",
+    "dateandtime": "Sat, 25 March 2023, 6:00 AM - 6:00 PM ADT",
+    "date": "2023/03/25",
+    "location": "Fundy CrossFit 55 Bentley Street, Unit 4 Saint John, NB E2K 1B2",
+    "category_id": 3,
+    "filename": "2023 New Brunswick Powerlifting Provincial Championships.png",
+    "price": 0,
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.9466911473946!2d-66.08176858444911!3d45.26908837909908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca7b3601614be89%3A0xb5b801f019060cc2!2sFundy%20CrossFit!5e0!3m2!1sen!2sca!4v1676412489704!5m2!1sen!2sca",
+    "description":
+      "The New Brunswick Powerlifting Association is pleased to announce our 6th Annual Provincial Championships. There will be 3-Lift and Bench Only events for all age classes in both the equipped and unequipped categories. This is a Drug Tested and Canadian Powerlifting Union sanctioned event. Registration is open from January 16th to March 6th."
+  },
+  {
+      "title": "Coach Dave Love Shooting Clinic - Moncton Mar 9",
+      "present_by": "Coach Dave Love",
+      "dateandtime": "Thu, 9 March 2023, 10:00 AM - 5:00 PM AST",
+      "date": "2023/03/09",
+      "location": "Crandall University 333 Gorge Street Moncton, NB E1C 9L7",
+      "category_id": 3,
+      "filename": "Coach Dave Love Shooting Clinic - Moncton Mar 9.png",
+      "price": 200,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2764.813584612102!2d-64.86328188441993!3d46.13454307911454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca0c0c6f9d3599b%3A0x783bf27ea0fa347c!2sCrandall%20University!5e0!3m2!1sen!2sca!4v1676412655441!5m2!1sen!2sca",
+      "description":
+        "Coach Dave Love has been the Shooting Coach for NBA teams including the Phoenix Suns, Cleveland Cavaliers and Orlando Magic, and created these clinics in 2001 to share the same teaching points with young basketball players.  Players will be taught the What's, Why's and How's of shooting fundamentals, and will hear stories of the work NBA players have done to improve."
+  },
+  {
+      "title": "Zumba",
+      "present_by": "Zumba with-avec Nicole",
+      "dateandtime": "Thu, Feb 23, 6:00 PM",
+      "date": "2023/02/23",
+      "location": "Sugarloaf Mall 312 Val-d'Amour Road Atholville, NB E3N 4E2",
+      "category_id": 3,
+      "filename": "Zumba.png",
+      "price": 20,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2670.032809464991!2d-66.70139468435602!3d47.99375307921221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4c98218b9937acb1%3A0xe3aaac95fbab0206!2sSugarloaf%20Mall!5e0!3m2!1sen!2sca!4v1676412754801!5m2!1sen!2sca",
+      "description":
+        "Par Zumba with-avec Nicole"
+  },
+  {
+      "title": "Paddling Film Festival",
+      "present_by": "Canoe Kayak New Brunswick",
+      "dateandtime": "Sat, 1 April 2023, 7:00 PM - 10:00 PM ADT",
+      "date": "2023/04/01",
+      "location": "MacLaggan Hall 33 Dineen Drive Fredericton, NB E3B",
+      "category_id": 3,
+      "filename": "Paddling Film Festival.png",
+      "price": 30,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.1764648639974!2d-66.64604558442632!3d45.94775717910964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca4220fd0cffa4f%3A0x71034ea5bef0db3e!2sMacLaggan%20Hall%2C%2033%20Dineen%20Dr%2C%20Fredericton%2C%20NB%20E3B%203X9!5e0!3m2!1sen!2sca!4v1676412960384!5m2!1sen!2sca",
+      "description":
+        "Canoe Kayak NB and Radical Edge are pleased to be able to bring this event back to Fredericton following a three year hiatus. Last time we had a sold out crowd and are hoping to see everyone again."
+  },
+  {
+      "title": "Monster Mania DAY 1 - Shediac Centre For Speed",
+      "present_by": "Thunder Mountain Entertainment",
+      "dateandtime": "Sat, 17 June 2023, 2:00 PM - 4:30 PM ADT",
+      "date": "2023/06/17",
+      "location": "1157 NB-133 1157 New Brunswick 133 Beaubassin East, NB E4P 8C5",
+      "category_id": 3,
+      "filename": "Monster Mania DAY 1 - Shediac Centre For Speed.png",
+      "price": 0,
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2760.1545602439323!2d-64.44687968441677!3d46.22727097911738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca09cbe0d2f4e31%3A0xb5b173a38e485ae6!2sShediac%20Centre%20for%20Speed%20-%20Entertainment%20Park!5e0!3m2!1sen!2sca!4v1676413086952!5m2!1sen!2sca",
+      "description":
+        "Monster Mania is BACK IN SHEDIAC for 2 MEGA DAYS OF GROUND-POUNDING THUNDER - June 17th & 18th, 2023. The 2 shows will each feature 7 BIG TRUCKS Outdoors and Unleashed, a day packed with Car Wars Demolition Qualifier events, and a full-contact Demolition Derby grande-finale!"
+  },
+  {
+      "title": "Career Fair: Exclusive Tech Hiring Event",
+      "present_by": "Tech Career Fair",
+      "dateandtime": "Fri, March 17, 2023, 9:00 AM - 12:00 PM PDT",
+      "date": "2023/03/17",
+      "location": "Online",
+      "category_id": 4,
+      "filename": "Career Fair_Exclusive Tech Hiring Event.png",
+      "price": 0,
+      "map": "",
+      "description":
+        "We will be hosting a virtual Tech Career Fair with our hiring partners from fast growing startups and Fortune 500 companies in technology in the US/Canada.  There will be a focus on helping companies achieve their diversity and inclusivity initiative with more diverse candidates to their talent pool. Available roles that our hiring companies are looking to fill are of the following:"
+  },
+  {
+      "title": "NATIONAL VIRTUAL CAREER FAIR ",
+      "present_by": "JOBS CANADA FAIR",
+      "dateandtime": "Wednesday, April 12th, 2023 | TIME: 1 pm - 4 pm (EST)",
+      "date": "2023/04/12",
+      "location": "Online",
+      "category_id": 4,
+      "filename": "NATIONAL VIRTUAL CAREER FAIR.png",
+      "price": 0,
+      "map": "",
+      "description":
+        "The National Virtual Career Fair is hosted to support Canada's economy and unemployment rate as Organizations are preparing to hire and bring employees back to work. WE ARE HERE TO HELP. Jobs Canada Fair invites Canada's Top and Best Managed Companies to attend for FREE the National Virtual Career Fair to support Canada's economy and unemployment rate, by connecting online with Job Seekers across the country to promote job openings and employment culture."
+  },
+  {
+      "title": "Career Club Virtual Job Fair / Career Fair - Online",
+      "present_by": "CareerClub.Net",
+      "dateandtime": "First Friday of Every Month, 11 am - 2 pm in your local timezone!",
+      "date": "2023/08/05",
+      "location": "Online",
+      "category_id": 4,
+      "filename": "Career Club Virtual Job Fair.png",
+      "price": 0,
+      "map": "",
+      "description":
+        "CareerClub Virtual job fair, started as a small project to take the anxiety away from recruiters and professionals by making it available every month, and delivering it virtually, has now been deemed an industry standard and has encouraged several other organizations to join us and make their job fair monthly. Few even took it to the next level and joined us by taking their job fair globally through our platform. CareerClub Virtual job fair is conducted on the first Friday of every month from the convenience of their home, with no travel, no dressing formals, and no anxiety-led career event. A community-driven job fair where professionals, recruiters, and service providers come together to promote happy and healthy hiring."
+  },
+  {
+      "title": "Pittsburgh Career Fair",
+      "present_by": "Career Fair Connection",
+      "dateandtime": "Mon, March 6, 2023, 9:30 AM - 12:30 PM EST",
+      "date": "2023/03/06",
+      "location": "Online",
+      "category_id": 4,
+      "filename": "Pittsburgh Career Fair.png",
+      "price": 0,
+      "map": "",
+      "description":
+        "Career Fair Connection is the leading recruitment company for hosting local career fairs and virtual hiring events. We pride ourselves on connecting job seekers with local and national employers. Register here if you are a job seeker looking for full time or part time employment. Bring a copy of your resume and apply to open positions."
+  }
+]
